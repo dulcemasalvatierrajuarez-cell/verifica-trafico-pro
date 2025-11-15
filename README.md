@@ -1,5 +1,3 @@
-# verifica-trafico-pro
-Verificador Anti-Scam con GA4
 # verifica_trafico_pro.py
 # Salva MX | 7 canciones | 3 juegos | Anti-scam
 
@@ -16,4 +14,6 @@ def verificar(url):
     else:
         print("SCAM DETECTADO")
 
+# Prueba
 verificar("https://salvaa.mx/?utm_source=instagram&utm_medium=paid")
+Agregar prueba y comentario
